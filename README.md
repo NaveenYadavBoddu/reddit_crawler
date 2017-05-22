@@ -18,6 +18,6 @@ In this we are crawling the title,question,url and list of comments from thread.
 
 Install the required packages using **pip install -r requirements.txt**
 
-#Code Execution
+# Code Execution
 
 python reddit_crawl.py
