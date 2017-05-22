@@ -20,4 +20,4 @@ Install the required packages using **pip install -r requirements.txt**
 
 # Code Execution
 
-python reddit_crawl.py
+**python reddit_crawl.py**
